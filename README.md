@@ -1,6 +1,6 @@
 # Hi there, I'm Gaurav Yadav! 👋  
 
-**MERN Stack Developer | C++ DSA Enthusiast | Aspiring Software Engineer | AI & Machine Learning**  
+**Full Stack Developer | C++ DSA Enthusiast | Aspiring Software Engineer | AI & Machine Learning**  
 
 I specialize in building scalable and efficient web solutions, with a keen interest in **Python, Artificial Intelligence, and Machine Learning**.  
 
