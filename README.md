@@ -17,14 +17,7 @@ I specialize in building scalable and efficient web solutions, with a keen inter
 - Advanced concepts in **Machine Learning** and their real-world applications.  
 - Best practices in **software architecture and system design**.  
 
----
 
-## 💼 Work Experience
-### 1. Unified Mentor – Workshop Trainee *(July 2025)*  
-- Completed workshop on **real-time messaging with Socket.IO**.  
-- Gained hands-on experience in **building scalable chat features**.  
-
----
 
 ## 🚀 Projects
 ### 🔹 Full-Stack Hiring Platform  
