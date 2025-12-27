@@ -47,7 +47,7 @@ I specialize in building scalable and efficient web solutions, with a keen inter
 ## 🏆 Achievements
 - 🥈 Secured **2nd place** in **ByteCode DSA Contest**.  
 - 🎯 Achieved **6th rank** in Round 1 of DSA test.  
-- 💡 **LeetCode:** Solved **450+ problems**.  
+- 💡 **LeetCode:** Solved **600+ problems**.  
 
 ---
 
