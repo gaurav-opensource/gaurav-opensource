@@ -1,101 +1,95 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<!-- ========================================= -->
+<!--   PREMIUM GITHUB README FOR GAURAV        -->
+<!-- ========================================= -->
+
+<h1 align="center">🌟 Hey, I'm <span style="color:#13B8A6;">Gaurav Yadav</span> 👋</h1>
+<h3 align="center">Full Stack Developer • MERN • Python ML • Software Engineer</h3>
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;DSA+%7C+Java+%7C+Problem+Solver;Always+Learning+New+Tech!" />
 </div>
 
 ---
 
-<h1 align="center">Hi there, I'm <span style="color:#00aaff;">Gaurav Yadav</span> 👋</h1>
+# 🚀 Tech Stack & Skills  
 
-<p align="center">
-  <b>Full Stack Developer | MERN | Python & ML Enthusiast | Aspiring Software Engineer</b>
-</p>
-
-<p align="center">
-  I love building scalable apps, solving DSA problems, and exploring Machine Learning.
-</p>
+## 🌐 **Frontend Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" height="60"/>
+</div>
 
 ---
 
-## 🚀 About Me
-- 🎯 Full Stack Developer building responsive & modern web apps  
-- 🧠 Exploring **Artificial Intelligence & Machine Learning**  
-- 🔍 Strong DSA fundamentals (Java)  
-- ✨ Passionate about solving real-world problems with tech  
+## 🧩 **Backend Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="60"/>
+</div>
 
 ---
 
-## 👀 Interests
-- **Web Development:** MERN stack, scalable systems  
-- **DSA:** Improving logic & problem-solving  
-- **AI/ML:** Model training, analytics, automation  
+## 🗄️ **Databases**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" height="60"/>
+</div>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Machine Learning**  
-- **System Design & Scalable Architectures**  
-- Backend Optimization & Cloud Deployment  
+## 🤖 **Python & Machine Learning**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60"/>
+</div>
+
+### 🔬 ML Libraries
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</div>
 
 ---
 
-## 🚀 Notable Project: Full-Stack Hiring Platform
-- Integrated **Judge0 API** for coding tests  
-- Added **ML-based result evaluation**  
-- Automated email notifications  
-- Built responsive **HR Dashboard**  
-- **GitHub:**  
-  👉 https://github.com/gaurav-opensource/Hiring-Platefrom
+## ☁️ **Cloud, DevOps & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,postman,vercel,netlify" height="60"/>
+</div>
 
 ---
 
-## 🛠️ Skills
+# 🌟 Featured Project  
+## 🔹 **Full-Stack Hiring Platform**
 
-### **Languages**
-- Java, Python, JavaScript, TypeScript
+✨ **Features:**  
+✔ Automated coding test evaluation (Judge0 API)  
+✔ Email automation for HR workflow  
+✔ ML-based result prediction  
+✔ HR dashboard for managing jobs, applicants, and progress  
 
-### **Web Development**
-- MERN Stack  
-- Next.js, Tailwind CSS  
-- REST APIs, Socket.IO  
-
-### **Machine Learning**
-- Data Preprocessing  
-- Model Building  
-- Evaluation Metrics  
-
-### **Tools & Tech**
-- Git, GitHub  
-- Cloud (Netlify, Vercel, Render)  
-- AWS basics  
+👉 **GitHub:**  
+https://github.com/gaurav-opensource/Hiring-Platefrom  
 
 ---
 
-## 📜 Certifications
-- **Apna College:** MERN Stack  
-- **GeeksforGeeks:** Data Science Program  
-- **ByteClub:** Secured **6th Rank** (Among 1000+ students)  
+# 🏆 Achievements  
+- 🥈 2nd place (ByteCode DSA Contest)  
+- 🥇 Top 6 rank in DSA (ByteClub)  
+- 🔥 600+ LeetCode problems  
+- 💼 Built 25+ high-quality MERN & ML projects  
 
 ---
 
-## 🏆 Achievements
-- 🥈 **2nd Place** – ByteCode DSA Contest  
-- 🔥 **600+ Problems Solved** on LeetCode  
-- 🏅 Top 6 in DSA exam round  
-
----
-
-## 📊 GitHub Insights
+# 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gaurav-opensource&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-opensource&theme=dracula&margin-w=8" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-opensource&theme=dracula&no-frame=true&margin-w=15" height="150" />
 </div>
 
 ---
 
-## 🎮 Fun Visual
+# 🎮 Fun Contribution Game  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" alt="pacman graph"/>
@@ -103,30 +97,23 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gauravyadav95">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/gaurav9536webdev">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://3d-portfolio123.netlify.app/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&color=61DAFB&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-## 😄 Pronouns  
-He/Him  
+<h3 align="center">⚡ Fun Fact</h3>
+<p align="center">When I'm not coding, I explore new technologies and build automation tools.</p>
 
-## ⚡ Fun Fact  
-When I'm not coding, I explore new tech & contribute to open-source.
-
----
-
-⭐ **Thanks for visiting!**  
-📌 *Let’s build something amazing together!*
-
+<h3 align="center">⭐ Let's Build Something Amazing Together!</h3>
