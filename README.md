@@ -1,73 +1,132 @@
-# Hi there, I'm Gaurav Yadav! 👋  
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-**Full Stack Developer | C++ DSA Enthusiast | Aspiring Software Engineer | AI & Machine Learning**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" />
+</div>
 
-I specialize in building scalable and efficient web solutions, with a keen interest in **Python, Artificial Intelligence, and Machine Learning**.  
+---
+
+<h1 align="center">Hi there, I'm <span style="color:#00aaff;">Gaurav Yadav</span> 👋</h1>
+
+<p align="center">
+  <b>Full Stack Developer | MERN | Python & ML Enthusiast | Aspiring Software Engineer</b>
+</p>
+
+<p align="center">
+  I love building scalable apps, solving DSA problems, and exploring Machine Learning.
+</p>
+
+---
+
+## 🚀 About Me
+- 🎯 Full Stack Developer building responsive & modern web apps  
+- 🧠 Exploring **Artificial Intelligence & Machine Learning**  
+- 🔍 Strong DSA fundamentals (Java)  
+- ✨ Passionate about solving real-world problems with tech  
 
 ---
 
 ## 👀 Interests
-- **Web Development:** Crafting responsive and dynamic web applications using the MERN stack.  
-- **Data Structures & Algorithms:** Enhancing problem-solving skills through Java-based DSA.  
-- **Artificial Intelligence & Machine Learning:** Exploring the realms of AI and ML to create intelligent solutions.  
+- **Web Development:** MERN stack, scalable systems  
+- **DSA:** Improving logic & problem-solving  
+- **AI/ML:** Model training, analytics, automation  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced concepts in **Machine Learning** and their real-world applications.  
-- Best practices in **software architecture and system design**.  
+- Advanced **Machine Learning**  
+- **System Design & Scalable Architectures**  
+- Backend Optimization & Cloud Deployment  
 
+---
 
-
-## 🚀 Projects
-### 🔹 Full-Stack Hiring Platform  
-- Integrated **Judge0 API** for automated coding tests and **ML-driven result evaluation**.  
-- Automated **email notifications** to keep candidates informed throughout recruitment.  
-- Designed a **responsive HR dashboard** to manage jobs, applicants, and results seamlessly.  
-- Developed a full-stack hiring platform to **automate recruitment and streamline HR-student interactions**.  
-- **GitHub Link:** [My Hiring Platform]((https://github.com/gaurav-opensource/Hiring-Platefrom))  
+## 🚀 Notable Project: Full-Stack Hiring Platform
+- Integrated **Judge0 API** for coding tests  
+- Added **ML-based result evaluation**  
+- Automated email notifications  
+- Built responsive **HR Dashboard**  
+- **GitHub:**  
+  👉 https://github.com/gaurav-opensource/Hiring-Platefrom
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** Java, Python, JavaScript  
-- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- **Machine Learning:** Data Preprocessing, Model Building, Evaluation  
-- **Other Tools & Tech:** Git, GitHub, REST APIs, Socket.IO, Cloud Deployment  
+
+### **Languages**
+- Java, Python, JavaScript, TypeScript
+
+### **Web Development**
+- MERN Stack  
+- Next.js, Tailwind CSS  
+- REST APIs, Socket.IO  
+
+### **Machine Learning**
+- Data Preprocessing  
+- Model Building  
+- Evaluation Metrics  
+
+### **Tools & Tech**
+- Git, GitHub  
+- Cloud (Netlify, Vercel, Render)  
+- AWS basics  
 
 ---
 
 ## 📜 Certifications
-- **Apna College:** MERN Stack – Built full-stack apps, APIs, and deployed projects.  
-- **GeeksforGeeks:** Data Science Program – Python, ML, Data Analysis, Visualization.  
-- **ByteClub (In-College Program):** Secured **6th rank** among 1000+ students in DSA test.  
+- **Apna College:** MERN Stack  
+- **GeeksforGeeks:** Data Science Program  
+- **ByteClub:** Secured **6th Rank** (Among 1000+ students)  
 
 ---
 
 ## 🏆 Achievements
-- 🥈 Secured **2nd place** in **ByteCode DSA Contest**.  
-- 🎯 Achieved **6th rank** in Round 1 of DSA test.  
-- 💡 **LeetCode:** Solved **600+ problems**.  
+- 🥈 **2nd Place** – ByteCode DSA Contest  
+- 🔥 **600+ Problems Solved** on LeetCode  
+- 🏅 Top 6 in DSA exam round  
 
 ---
 
-## 📫 How to Reach Me
-- **Portfolio:** [3D Portfolio](https://3d-portfolio123.netlify.app/)  
-- **LinkedIn:** [gauravyadav95](https://www.linkedin.com/in/gauravyadav95)  
-- **X (Twitter):** [@gaurav9536webdev](https://x.com/gaurav9536webdev)  
+## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gaurav-opensource&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-opensource&theme=dracula&margin-w=8" height="150" />
+</div>
 
 ---
 
-## 😄 Pronouns
+## 🎮 Fun Visual
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" alt="pacman graph"/>
+</picture>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gauravyadav95">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge"/>
+  </a>
+  <a href="https://x.com/gaurav9536webdev">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge"/>
+  </a>
+  <a href="https://3d-portfolio123.netlify.app/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&color=61DAFB&style=for-the-badge"/>
+  </a>
+</div>
+
+---
+
+## 😄 Pronouns  
 He/Him  
 
----
-
-## ⚡ Fun Fact
-When I'm not coding, I enjoy exploring new technologies and contributing to open-source communities.  
+## ⚡ Fun Fact  
+When I'm not coding, I explore new tech & contribute to open-source.
 
 ---
 
-✨ *Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gauravyadav95) or follow me on [X](https://x.com/gaurav9536webdev) to stay updated on my latest projects.*  
+⭐ **Thanks for visiting!**  
+📌 *Let’s build something amazing together!*
 
-🚀 Let's build something amazing together!  
