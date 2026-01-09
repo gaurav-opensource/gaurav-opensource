@@ -110,10 +110,9 @@ https://github.com/gaurav-opensource/Hiring-Platefrom
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </div>
-
 ---
 
-<h3 align="center">⚡ Fun Fact</h3>
+<h3 align="center">⚡ Fun Fact </h3>
 <p align="center">When I'm not coding, I explore new technologies and build automation tools.</p>
 
 <h3 align="center">⭐ Let's Build Something Amazing Together!</h3>
