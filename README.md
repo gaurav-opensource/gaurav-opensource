@@ -1,118 +1,124 @@
 <!-- ========================================= -->
-<!--   PREMIUM GITHUB README FOR GAURAV        -->
+<!--   PROFESSIONAL GITHUB README — GAURAV     -->
 <!-- ========================================= -->
 
-<h1 align="center">🌟 Hey, I'm <span style="color:#13B8A6;">Gaurav Yadav</span> 👋</h1>
-<h3 align="center">Full Stack Developer • MERN • Python ML • Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#13B8A6;">Gaurav Yadav</span></h1>
+<h3 align="center">
+Software Developer • Full-Stack MERN • Backend & AI-Driven Systems
+</h3>
+
+<p align="center">
+Building scalable, real-world applications with clean architecture and strong system design.
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;DSA+%7C+Java+%7C+Problem+Solver;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+MERN+Engineer;Backend+%26+Real-Time+Systems;AI-Powered+Application+Builder" />
 </div>
 
 ---
 
-# 🚀 Tech Stack & Skills  
+## 🚀 About Me
 
-## 🌐 **Frontend Development**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" height="60"/>
-</div>
-
----
-
-## 🧩 **Backend Development**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="60"/>
-</div>
+- 🎓 Computer Science Engineer with a strong foundation in **backend and full-stack development**
+- 🧠 Experienced in building **AI-powered, real-time, and scalable applications**
+- ⚙️ Passionate about **clean code, system design, and performance optimization**
+- 💡 Hands-on experience with **production-grade APIs, authentication, and deployments**
+- 🌱 Constantly learning and improving through projects and open-source contributions
 
 ---
 
-## 🗄️ **Databases**
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" height="55"/>
 </div>
 
----
-
-## 🤖 **Python & Machine Learning**
+### 🧩 Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="55"/>
 </div>
 
-### 🔬 ML Libraries
+### 🗄️ Databases
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" height="55"/>
+</div>
+
+### 🤖 Python & Machine Learning
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+</div>
+
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</div>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
----
-
-## ☁️ **Cloud, DevOps & Tools**
+### ☁️ Cloud, DevOps & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,postman,vercel,netlify" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel,netlify" height="55"/>
 </div>
 
 ---
 
-# 🌟 Featured Project  
-## 🔹 **Full-Stack Hiring Platform**
+## 🌟 Featured Project
 
-✨ **Features:**  
-✔ Automated coding test evaluation (Judge0 API)  
-✔ Email automation for HR workflow  
-✔ ML-based result prediction  
-✔ HR dashboard for managing jobs, applicants, and progress  
+### 🔹 Full-Stack Smart Hiring Platform
 
-👉 **GitHub:**  
-https://github.com/gaurav-opensource/Hiring-Platefrom  
+**A production-grade recruitment automation system**
 
----
+**Key Features**
+- Automated coding test evaluation (Judge0 API)
+- AI/ML-based candidate result prediction
+- Email automation for HR workflows
+- Role-based HR dashboard for job and applicant management
 
-# 🏆 Achievements  
-- 🥈 2nd place (ByteCode DSA Contest)  
-- 🥇 Top 6 rank in DSA (ByteClub)  
-- 🔥 600+ LeetCode problems  
-- 💼 Built 25+ high-quality MERN & ML projects  
+🔗 **GitHub Repository**  
+https://github.com/gaurav-opensource/Hiring-Platefrom
 
 ---
 
-# 📊 GitHub Stats  
+## 🏆 Achievements & Highlights
+
+- 🥈 2nd Place — ByteCode DSA Contest  
+- 🏅 Top 6 Rank — ByteClub DSA Challenge  
+- 💻 Solved **600+ DSA problems** across platforms  
+- 🚀 Built **25+ MERN & ML projects** with real-world use cases  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gaurav-opensource&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-opensource&theme=dracula&no-frame=true&margin-w=15" height="150" />
+  <img src="https://streak-stats.demolab.com?user=gaurav-opensource&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-opensource&theme=dracula&no-frame=true&margin-w=15" height="150"/>
 </div>
 
 ---
 
-# 🎮 Fun Contribution Game  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" alt="pacman graph"/>
-</picture>
-
----
-
-# 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gauravyadav95">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/gaurav9536webdev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://3d-portfolio123.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </div>
+
 ---
 
-<h3 align="center">⚡ Fun Fact </h3>
-<p align="center">When I'm not coding, I explore new technologies and build automation tools.</p>
+<h3 align="center">⚡ Fun Fact</h3>
+<p align="center">
+I enjoy building automation tools and exploring system-level optimizations when I'm not coding.
+</p>
 
-<h3 align="center">⭐ Let's Build Something Amazing Together!</h3>
+<h3 align="center">⭐ Let’s build scalable and impactful software together!</h3>
