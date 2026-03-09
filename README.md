@@ -119,7 +119,7 @@ Tech: Node.js, WebRTC, Socket.IO
 <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="https://3d-portfolio123.netlify.app/">
+<a href="https://threed-portfolio-msx7.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=react"/>
 </a>
 
