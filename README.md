@@ -91,7 +91,7 @@ Tech: Node.js, WebRTC, Socket.IO
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav-opensource&show_icons=true&theme=dracula&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav-opensource&show_icons=true&theme=dracula&hide_border=true&cache_seconds=10" height="150"/>
 
 <img src="https://streak-stats.demolab.com/?user=gaurav-opensource&theme=dracula&hide_border=true" height="150"/>
 
