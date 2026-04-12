@@ -7,11 +7,6 @@
 Building scalable software, backend systems, and intelligent applications.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=gaurav-opensource&label=Profile%20Views&color=blue&style=flat"/>
-<img src="https://img.shields.io/github/followers/gaurav-opensource?style=social"/>
-</p>
-
 ---
 
 # 🚀 About Me
