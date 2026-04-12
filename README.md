@@ -4,9 +4,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
-<h3 align="center">Aspiring Software Engineer | MERN Stack | AI Enthusiast</h3>
+<h3>Aspiring Software Engineer | MERN Stack | AI Enthusiast</h3>
 
-<p align="center">
+<p>
   Developing full-stack applications with clean architecture and scalability.<br>
   Exploring AI/ML to create intelligent solutions for real-world challenges.
 </p>
@@ -14,10 +14,10 @@
 ---
 # 🚀 About Me
 
-💻 Full-Stack MERN Developer passionate about building scalable applications  
-🤖 Exploring AI/ML to create intelligent real-world solutions  
-🌍 Open Source Contributor, actively collaborating and contributing to real-world projects  
-🚀 Continuously learning and building projects to grow as a Software Engineer  
+💻 Full-Stack MERN Developer building scalable and high-performance applications  
+🤖 Exploring AI/ML and Large Language Models (LLMs) to develop intelligent systems  
+🌍 Open Source Contributor, contributing to impactful real-world projects  
+🚀 Continuously learning and improving to grow as a Software Engineer  
 
 ---
 
@@ -40,9 +40,8 @@
 
 ### Python & ML
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow" />
 </p>
-
 ---
 
 # 🌟 Featured Projects
@@ -74,31 +73,10 @@ Tech: Node.js, WebRTC, Socket.IO
 
 🥈 ByteCode DSA Contest Rank Holder  
 
-💻 Solved 600+ DSA Problems  
+💻 Solved 800+ DSA Problems  
 
 🚀 Built 25+ Projects
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav-opensource&show_icons=true&theme=dracula&hide_border=true&cache_seconds=10" height="150"/>
-
-<img src="https://streak-stats.demolab.com/?user=gaurav-opensource&theme=dracula&hide_border=true" height="150"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-opensource&theme=react-dark"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
