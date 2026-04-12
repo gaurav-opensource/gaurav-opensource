@@ -4,25 +4,20 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
-<h3 align="center">Full-Stack MERN Developer | AI-Powered Applications</h3>
+<h3 align="center">Aspiring Software Engineer | MERN Stack | AI Enthusiast</h3>
 
 <p align="center">
-Building scalable software, backend systems, and intelligent applications.
+  Developing full-stack applications with clean architecture and scalability.<br>
+  Exploring AI/ML to create intelligent solutions for real-world challenges.
 </p>
 
 ---
-
 # 🚀 About Me
 
-🎓 Computer Science Engineering Student  
-
-💻 Full-Stack MERN Developer  
-
-🤖 Interested in AI-Powered Systems  
-
-⚙️ Focus on Backend Architecture & Clean Code  
-
-🚀 Built 25+ real world projects
+💻 Full-Stack MERN Developer passionate about building scalable applications  
+🤖 Exploring AI/ML to create intelligent real-world solutions  
+🌍 Open Source Contributor, actively collaborating and contributing to real-world projects  
+🚀 Continuously learning and building projects to grow as a Software Engineer  
 
 ---
 
@@ -35,7 +30,7 @@ Building scalable software, backend systems, and intelligent applications.
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
 </p>
 
 ### Databases
