@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="[https://your-image-link.com/banner.png](https://drive.google.com/file/d/1DN7zC2N5yO76jxd_C5LwQqznBdZuEb2h/view?usp=sharing](https://drive.google.com/file/d/1DN7zC2N5yO76jxd_C5LwQqznBdZuEb2h/view?usp=sharing)" alt="banner" />
+  <img src="https://drive.google.com/uc?export=view&id=1DN7zC2N5yO76jxd_C5LwQqznBdZuEb2h" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
