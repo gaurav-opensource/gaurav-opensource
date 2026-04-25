@@ -19,27 +19,28 @@
 
 ---
 
-## 🚀 Gaurav Yadav
-
-💼 Full Stack Developer (MERN) + AI/ML
-🎓 Computer Science Engineering
 
 ---
 
-## `> .`
-## 🚀 Gaurav Yadav
+## `> Personal Information`
 
-💼 Full Stack Developer (MERN) + AI/ML
-🎓 Computer Science Engineering
+ Hi 👋, I'm Gaurav Yadav  
 
+🚀 Full Stack Developer focused on building scalable, real-time and AI-powered applications.  
+💡 Experienced in MERN stack, WebRTC, and integrating machine learning into production-ready systems.  
+📈 Passionate about solving real-world problems through clean architecture and efficient design.
 
 ---
 
 ## 🧠 Expertise
 
-MERN • WebRTC • Socket.IO • REST APIs • JWT • AI/ML • FastAPI • System Design
+![MERN](https://img.shields.io/badge/MERN-Stack-7c5ff5?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Integration-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
+![System Design](https://img.shields.io/badge/System-Design-a78bfa?style=flat-square&logo=buffer&logoColor=white&labelColor=0d1117)
 
 ---
+
 
 ## 🏆 Achievements
 
@@ -52,20 +53,6 @@ MERN • WebRTC • Socket.IO • REST APIs • JWT • AI/ML • FastAPI • Sy
 
 
 
----
-
-## 🧠 Expertise
-
-![MERN](https://img.shields.io/badge/MERN-Stack-7c5ff5?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117)
-![WebRTC](https://img.shields.io/badge/WebRTC-Real--time-333333?style=flat-square&logo=webrtc&logoColor=white&labelColor=0d1117)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--time-010101?style=flat-square&logo=socket.io&logoColor=white&labelColor=0d1117)
-![REST APIs](https://img.shields.io/badge/REST-APIs-0d1117?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0d1117)
-![AI/ML](https://img.shields.io/badge/AI%2FML-Integration-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
-![System Design](https://img.shields.io/badge/System-Design-a78bfa?style=flat-square&logo=buffer&logoColor=white&labelColor=0d1117)
-
----
 
 ## 🏆 Achievements
 
