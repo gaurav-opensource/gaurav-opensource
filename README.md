@@ -1,51 +1,66 @@
-<!-- Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c5ff5&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=header&text=Gaurav%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20%7C%20Open%20Source&descAlignY=60&descSize=16" width="100%"/>
 
-<!-- Badges -->
-![Open to Work](https://img.shields.io/badge/🟢_Status-Open_to_Work-4ade80?style=for-the-badge&labelColor=0a0a0f&color=4ade80)
-![Hire Me](https://img.shields.io/badge/💼_Available-For_Hire-7c5ff5?style=for-the-badge&labelColor=0a0a0f&color=7c5ff5)
+</div>
 
-# Full Stack Developer
-### `MERN` · `WebRTC` · `AI/ML` · `Real-time Systems`
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1000&color=7C5FF5&center=true&vCenter=true&width=620&lines=MERN+Stack+Developer+%F0%9F%9A%80;WebRTC+%26+Real-time+Systems+Engineer+%E2%9A%A1;AI%2FML+Integration+Specialist+%F0%9F%A4%96;CodeChef+4%E2%98%85+%7C+800%2B+DSA+Problems+%F0%9F%93%8A;GSSoC+%26+ECWoC+Open+Source+Contributor+%F0%9F%8C%8D)
+
+</div>
+
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Work-4ade80?style=for-the-badge&labelColor=0d1117&color=4ade80)
+![Hire Me](https://img.shields.io/badge/%F0%9F%92%BC_Available-For_Hire-7c5ff5?style=for-the-badge&labelColor=0d1117&color=7c5ff5)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Live-a78bfa?style=for-the-badge&labelColor=0d1117&color=a78bfa)](https://threed-portfolio-msx7.onrender.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-4★_Programmer-5B4638?style=flat-square&logo=codechef&logoColor=white&labelColor=1a1a2e)](https://codechef.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com)
+[![Projects](https://img.shields.io/badge/Projects-25%2B_Built-7c5ff5?style=flat-square&labelColor=1a1a2e)](https://threed-portfolio-msx7.onrender.com)
+[![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-4ade80?style=flat-square&labelColor=1a1a2e)](https://github.com)
+[![ECWoC](https://img.shields.io/badge/ECWoC-5000%2B_Community-fbbf24?style=flat-square&labelColor=1a1a2e)](https://github.com)
+[![SIH](https://img.shields.io/badge/SIH-Hackathon_Participant-fb923c?style=flat-square&labelColor=1a1a2e)](https://github.com)
 
 </div>
 
 ---
-
-<div align="center">
-
-[![DSA](https://img.shields.io/badge/DSA_Problems-800%2B-7c5ff5?style=flat-square&labelColor=1a1a2e)](https://leetcode.com)
-[![Projects](https://img.shields.io/badge/Projects_Built-25%2B-a78bfa?style=flat-square&labelColor=1a1a2e)](https://github.com)
-[![Hackathon](https://img.shields.io/badge/Smart_India_Hackathon-Participant-fbbf24?style=flat-square&labelColor=1a1a2e)](https://github.com)
-[![Contest](https://img.shields.io/badge/ByteCode_DSA-Rank_Holder-4ade80?style=flat-square&labelColor=1a1a2e)](https://github.com)
-
-</div>
-
----
-
-## 🚀 Developer Profile
-
-💼 **Role:** Full Stack Developer (MERN + Real-time Systems)  
-
-🧠 **Tech Stack:** MERN • WebRTC • Socket.IO • AI/ML  
-
-🎯 **Focus:** Real-time Systems • Video Platforms • LLM Integrations  
-
-📊 **Experience:** 800+ DSA problems • 25+ production projects  
-
-📚 **Learning:** System Design • Distributed Systems • Backend Scalability  
-
-🌟 **Status:** Open to jobs, collaborations & impactful work 🚀  
 
 ## `> whoami`
 
 ```ts
+const gaurav = {
+  name      : "Gaurav Yadav",
+  role      : "Full Stack Developer (MERN) + AI/ML",
+  education : "Computer Science Engineering",
+  portfolio : "https://threed-portfolio-msx7.onrender.com",
 
+  competitive : {
+    codechef  : "4★ Programmer",
+    dsa       : "800+ problems solved (LeetCode)",
+    contests  : ["Byte Master 2024 — Top 6 Finish 🥇", "Smart India Hackathon (SIH) 🏅"],
+  },
+
+  expertise : [
+    "MERN Stack",     "WebRTC",          "Socket.IO",
+    "REST API Design", "JWT Auth",       "AI/ML Integration",
+    "FastAPI",         "System Design",  "Backend Scalability",
+  ],
+
+  openSource : ["GirlScript Summer of Code (GSSoC)", "ECWoC India — 5000+ devs"],
+  goal       : "Building scalable, intelligent, real-world software systems",
+  status     : "Seeking SWE Internship / Entry-Level Full Stack Role 🚀",
+};
 ```
 
---- checnage this into degined
+---
 
 ## `> tech.stack`
 
@@ -62,6 +77,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Database**
 
@@ -69,10 +85,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Real-time**
+**Real-time & Deployment**
 
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 **AI / ML**
 
@@ -91,25 +109,27 @@
 <td width="50%" valign="top">
 
 ### 🏥 AI Smart Healthcare Platform
-`WebRTC` `Socket.IO` `Node.js` `MongoDB`
+`WebRTC` `Socket.IO` `Node.js` `MongoDB` `JWT`
 
-Full-stack platform for doctor discovery, appointment booking, and peer-to-peer video consultation. Built real-time chat, notifications, and a scalable backend from the ground up.
+Full-stack platform for doctor discovery, appointment booking, and peer-to-peer video consultation with real-time chat and production-grade backend.
 
 - ✦ WebRTC peer-to-peer video calls
-- ✦ Socket.IO real-time chat & alerts
+- ✦ Socket.IO real-time chat & notifications
+- ✦ JWT authentication + secure APIs
 - ✦ Scalable Node.js + MongoDB backend
 
 </td>
 <td width="50%" valign="top">
 
 ### 💼 Smart Hiring Platform
-`Judge0 API` `ML` `React` `Node.js`
+`Judge0 API` `ML` `React` `Node.js` `Python`
 
-AI-powered recruitment system with live coding evaluation, automated candidate scoring, and ML-based filtering — end to end hiring in one platform.
+AI-powered recruitment system with live coding evaluation, automated candidate scoring, and ML-based filtering — end-to-end hiring in one platform.
 
 - ✦ Judge0 API for live coding tests
 - ✦ ML candidate filtering & scoring
 - ✦ Automated evaluation pipeline
+- ✦ Clean modular architecture
 
 </td>
 </tr>
@@ -117,13 +137,14 @@ AI-powered recruitment system with live coding evaluation, automated candidate s
 <td width="50%" valign="top">
 
 ### 🎥 Video Meeting Platform
-`WebRTC` `Socket.IO` `React`
+`WebRTC` `Socket.IO` `React` `Node.js`
 
-Room-based real-time video conferencing with low-latency signaling, multi-peer architecture, and optimized for scale.
+Room-based real-time video conferencing with low-latency signaling, multi-peer architecture, optimized for scale.
 
 - ✦ WebRTC + Socket.IO signaling
-- ✦ Low latency, room-based system
-- ✦ Optimized for scalability
+- ✦ Room-based multi-peer system
+- ✦ Low latency, production-ready
+- ✦ Scalable architecture
 
 </td>
 <td width="50%" valign="top">
@@ -131,15 +152,18 @@ Room-based real-time video conferencing with low-latency signaling, multi-peer a
 ### 🧩 Real-Time Canvas Board
 `WebSockets` `Canvas API` `Node.js`
 
-Collaborative multi-user drawing board with live sync across all connected clients, smooth UX, and WebSocket backbone.
+Collaborative multi-user drawing board with live sync, lag-free UX, and WebSocket backbone — built for scale.
 
 - ✦ Live multi-user collaboration
 - ✦ Real-time WebSocket sync
 - ✦ Smooth, lag-free drawing UX
+- ✦ Designed for scalability
 
 </td>
 </tr>
 </table>
+
+> 🌐 **Explore all 25+ projects →** [threed-portfolio-msx7.onrender.com](https://threed-portfolio-msx7.onrender.com)
 
 ---
 
@@ -147,16 +171,44 @@ Collaborative multi-user drawing board with live sync across all connected clien
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c5ff5&icon_color=a78bfa&text_color=e8e6f0&ring_color=7c5ff5" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c5ff5&text_color=e8e6f0" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c5ff5&icon_color=a78bfa&text_color=e8e6f0&ring_color=7c5ff5&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c5ff5&text_color=e8e6f0&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0a0a0f&ring=7c5ff5&fire=a78bfa&currStreakLabel=7c5ff5" />
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=7c5ff5&fire=a78bfa&currStreakLabel=7c5ff5&sideLabels=e8e6f0&dates=6e6c86" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=7c5ff5&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## `> experience`
+
+```
+▸ ECWoC — Open Source Developer                        Jan 2026 – Mar 2026
+  Collaborated with 5000+ global developers. Submitted PRs, improved
+  code quality and documentation across open-source repositories.
+
+▸ CodSoft — Full Stack Developer                       Dec 2025 – Jan 2026
+  Built modular MERN apps, optimized MongoDB schemas with Mongoose,
+  implemented JWT auth, deployed services on Render & Heroku.
+
+▸ IBM SkillsBuild × CSRBOX — Web Developer             Jun 2025 – Aug 2025
+  Built responsive React.js + Tailwind CSS apps using component-based
+  architecture and industry-standard coding practices.
+
+▸ GirlScript Summer of Code (GSSoC) — Contributor      Oct 2024 – Jan 2025
+  Fixed bugs and enhanced features across open-source projects.
+  Gained hands-on experience with React.js and Node.js ecosystems.
+```
 
 ---
 
@@ -164,13 +216,15 @@ Collaborative multi-user drawing board with live sync across all connected clien
 
 <div align="center">
 
-|  | Achievement | Details |
+| | Achievement | Details |
 |:---:|---|---|
-| 🏅 | **Smart India Hackathon** | National-level hackathon participant |
-| 🥈 | **ByteCode DSA Contest** | Rank holder in competitive DSA challenge |
-| 💻 | **800+ DSA Problems** | Solved across LeetCode, Codeforces & more |
+| ⭐⭐⭐⭐ | **CodeChef 4★ Programmer** | Competitive programming milestone |
+| 🥇 | **Byte Master 2024** | Top 6 Finish — Coding Challenge |
+| 🏅 | **Smart India Hackathon (SIH)** | National-level hackathon participant |
+| 💻 | **800+ DSA Problems** | Solved on LeetCode & platforms |
+| 🌍 | **GSSoC Contributor** | GirlScript Summer of Code |
+| 🌍 | **ECWoC Contributor** | Elite Coders Winter of Code |
 | 🚀 | **25+ Production Projects** | Real-world, end-to-end applications |
-| 🌍 | **Open Source Contributor** | Active contributor across public repos |
 
 </div>
 
@@ -179,9 +233,9 @@ Collaborative multi-user drawing board with live sync across all connected clien
 ## `> currently.building`
 
 ```
-🟢 AI-powered healthcare assistant ........... LLM + real-time patient interaction
-🟢 Real-time collaboration tools ............. Next-gen whiteboard & doc co-editing  
-🟢 System design mastery ..................... Distributed systems & scalable backends
+🟢  AI-powered tools & agents .......... LLM integration & real-world automation
+🟢  System design mastery .............. Distributed systems & scalable backends
+🟢  New skills — every week ............ FastAPI · DevOps · Cloud deployment
 ```
 
 ---
@@ -190,15 +244,21 @@ Collaborative multi-user drawing board with live sync across all connected clien
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c5ff5?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c5ff5?style=for-the-badge&labelColor=0d1117)](https://threed-portfolio-msx7.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your@email.com)
 
-**⭐ Open to jobs, collaborations & building impactful products**
+<br/>
+
+**⭐ Open to SWE Internships · Full Stack Roles · Collabs · Open Source**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c5ff5&style=flat-square&label=Profile+Views)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c5ff5&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
 </div>
