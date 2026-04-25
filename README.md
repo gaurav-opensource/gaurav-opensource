@@ -25,42 +25,27 @@
 
 ---
 
-## ⚡ > whoami
+## 🚀 Developer Profile
+
+💼 **Role:** Full Stack Developer (MERN + Real-time Systems)  
+
+🧠 **Tech Stack:** MERN • WebRTC • Socket.IO • AI/ML  
+
+🎯 **Focus:** Real-time Systems • Video Platforms • LLM Integrations  
+
+📊 **Experience:** 800+ DSA problems • 25+ production projects  
+
+📚 **Learning:** System Design • Distributed Systems • Backend Scalability  
+
+🌟 **Status:** Open to jobs, collaborations & impactful work 🚀  
+
+## `> whoami`
 
 ```ts
-/**
- * Developer Profile
- * -----------------
- * Real-time systems + AI-driven applications
- */
 
-const gauravYadav = {
-  role: "Full Stack Developer (MERN + Real-time Systems)",
+```
 
-  stack: {
-    core: ["MERN", "WebRTC", "Socket.IO"],
-    ai: ["Machine Learning", "LLM Integrations"]
-  },
-
-  focus: [
-    "Real-time Systems ⚡",
-    "Scalable Video Platforms 🎥",
-    "AI-powered Applications 🤖"
-  ],
-
-  experience: {
-    dsa: "800+ problems solved",
-    projects: "25+ production-grade builds"
-  },
-
-  growth: [
-    "System Design",
-    "Distributed Systems",
-    "Backend Scalability"
-  ],
-
-  status: "🟢 Open to opportunities, collaborations & impactful work"
-};
+--- checnage this into degined
 
 ## `> tech.stack`
 
