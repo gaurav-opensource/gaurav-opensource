@@ -23,7 +23,6 @@
 
 💼 Full Stack Developer (MERN) + AI/ML
 🎓 Computer Science Engineering
-🌐 Portfolio: [threed-portfolio-msx7.onrender.com](https://threed-portfolio-msx7.onrender.com)
 
 ---
 
@@ -33,7 +32,6 @@
 💼 Full Stack Developer (MERN) + AI/ML
 🎓 Computer Science Engineering
 
-🌐 Portfolio: https://threed-portfolio-msx7.onrender.com
 
 ---
 
