@@ -33,32 +33,26 @@
 
 ---
 
+## 🚀 Gaurav Yadav  
+
+💼 Full Stack Developer (MERN) + AI/ML  
+🎓 Computer Science Engineering  
+
+🌐 Portfolio: https://threed-portfolio-msx7.onrender.com  
+
+---
+
+🧠 **Expertise:** MERN • WebRTC • Socket.IO • REST APIs • JWT • AI/ML • FastAPI • System Design  
+
+🏆 **Achievements:** CodeChef 4★ • 800+ DSA • Byte Master Top 6 • SIH  
+
+🌍 **Open Source:** GSSoC • ECWoC India  
+
+🎯 **Goal:** Building scalable intelligent systems  
+
+🟢 **Status:** Seeking SWE Internship / Entry-Level Role 🚀  
+
 ## `> whoami`
-
-```ts
-const gaurav = {
-  name      : "Gaurav Yadav",
-  role      : "Full Stack Developer (MERN) + AI/ML",
-  education : "Computer Science Engineering",
-  portfolio : "https://threed-portfolio-msx7.onrender.com",
-
-  competitive : {
-    codechef  : "4★ Programmer",
-    dsa       : "800+ problems solved (LeetCode)",
-    contests  : ["Byte Master 2024 — Top 6 Finish 🥇", "Smart India Hackathon (SIH) 🏅"],
-  },
-
-  expertise : [
-    "MERN Stack",     "WebRTC",          "Socket.IO",
-    "REST API Design", "JWT Auth",       "AI/ML Integration",
-    "FastAPI",         "System Design",  "Backend Scalability",
-  ],
-
-  openSource : ["GirlScript Summer of Code (GSSoC)", "ECWoC India — 5000+ devs"],
-  goal       : "Building scalable, intelligent, real-world software systems",
-  status     : "Seeking SWE Internship / Entry-Level Full Stack Role 🚀",
-};
-```
 
 ---
 
