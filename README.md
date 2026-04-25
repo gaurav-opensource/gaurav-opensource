@@ -174,9 +174,9 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit_Now-7c5ff5?style=for-the-badge&labelColor=0d1117)](https://threed-portfolio-msx7.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gauravyadav95)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/gaurav-opensource)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:gauravyadavgh@email.com)
 
 <br/>
 
