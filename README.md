@@ -36,7 +36,7 @@
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-7c5ff5?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Integration-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
+![FastAPI/Node.js](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
 ![System Design](https://img.shields.io/badge/System-Design-a78bfa?style=flat-square&logo=buffer&logoColor=white&labelColor=0d1117)
 
 ---
@@ -52,20 +52,6 @@
 * 🚀 25+ Production Projects
 
 
-
-
-## 🏆 Achievements
-
-| | Achievement | Details |
-|:---:|---|---|
-| ⭐⭐⭐⭐ | **CodeChef 4★ Programmer** | Competitive programming milestone |
-| 💻 | **800+ DSA Problems** | Solved on LeetCode & more |
-| 🥇 | **Byte Master 2024** | Top 6 Finish in Coding Challenge |
-| 🏅 | **Smart India Hackathon (SIH)** | National-level participant |
-| 🌍 | **GSSoC & ECWoC Contributor** | Open source — 5000+ dev community |
-| 🚀 | **25+ Production Projects** | Real-world, end-to-end apps |
-
----
 
 ## 📈 Contribution Graph
 
